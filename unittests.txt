@@ -1,0 +1,2 @@
+# Ideas
+Reduce frequency of metric collection in production
